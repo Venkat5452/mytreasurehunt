@@ -1,0 +1,34 @@
+.pp {
+    background-color: #fafafa;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    height: 80vh;
+    align-items: center;
+    
+  }
+
+  .pp1 {
+    margin: auto;
+    background-color: #fafafa;
+    max-width: 300px;
+    max-height: 400px;
+  }
+  .b1 {
+    padding-left: 110px;
+  }
+
+  .pp2{
+    background-color: #fafafa;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    height: 50vh;
+    align-items: center;
+  }
+  .bb{
+     background: url("https://images2.alphacoders.com/185/185222.jpg");
+   background-position: center;
+   background-size: cover;
+   background-repeat: no-repeat;
+  }

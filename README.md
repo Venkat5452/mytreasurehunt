@@ -1,3 +1,30 @@
+Memory and Puzzle Game----
+This is a web-based game that tests users' memory and problem-solving skills. The game consists of two rounds: a memory card game and a 4x4 puzzle. Users must complete the memory card game with a maximum of 8 mismatches to qualify for the puzzle round, where they must arrange the tiles in ascending order as quickly as possible.
+
+Game Rules-----
+To participate in the game, users must complete the memory card game with a maximum of 8 mismatches to qualify for the puzzle round.
+In the puzzle round, users must arrange the tiles in ascending order as quickly as possible.
+If two or more users have the same completion time in the puzzle round, the user with the least number of mismatches in the memory card game wins.
+Users can compete against each other for the highest score on the leaderboard.
+The leaderboard ranks users based on their scores in both rounds
+
+
+
+Scoring System----
+Users are given points based on their performance in each round:
+
+Memory Card Game (Level 1): Points are given based on the number of attempts taken to match the clues.
+4x4 Puzzle (Level 2): Points are given based on the total number of seconds taken to complete the puzzle.
+
+
+Leaderboard----
+The leaderboard displays the top scores of all users who have completed at least one round of the game. Users are ranked based on their total score, with lower scores indicating higher rankings. If two or more users have the same score, the user who attempted both rounds is prioritized over the user who attempted only one round.
+
+Usage---
+Users can play the game by visiting the website and following the instructions on the main page. The game requires a web browser and an internet connection to play. Users can also view the leaderboard and compare their scores with other users.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
